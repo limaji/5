@@ -14,4 +14,4 @@ Strartup Organization for Cross media journal of Makassar
 # 1 H :
 ### How ?
 ![5W1H ](http://hallobogor.com/wp-content/uploads/2015/07/5w1h-theory.png)
-5w+1H: ![5W1h](source)
+Source:[source](url)
